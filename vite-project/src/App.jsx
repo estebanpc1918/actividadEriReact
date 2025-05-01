@@ -16,6 +16,7 @@ function App() {
     <>
     <div>
       <h2>tiempo empezo hace {segundos}segundos</h2>
+      <h1>holaa</h1>
     </div>
       
     </>
